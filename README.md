@@ -11,4 +11,3 @@ blah blah blah
 
 
 
-C:\Users\dsimp\Pictures\brett.jpg
